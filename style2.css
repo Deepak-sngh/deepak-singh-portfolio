@@ -126,7 +126,7 @@ body {
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
-  background: url(/learn\ finance\ cover.jpg);
+  background: url(learn\ finance\ cover.jpg);
   background-size: cover;
   border-radius: 0.5rem;
 }
@@ -135,7 +135,7 @@ body {
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
-  background: url(/ilpeople\ musc\ cover.jpg);
+  background: url(ilpeople\ musc\ cover.jpg);
   background-size: cover;
   border-radius: 0.5rem;
 }
